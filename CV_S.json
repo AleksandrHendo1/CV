@@ -1,0 +1,20 @@
+{
+   "name":"Alexander",
+   "secondname":"Suschuts",
+   "age":27,
+   "marriage":false,
+   "phonenumber":[
+      "5094207"
+   ],
+   "height":176,
+   "weight":90,
+   "size":48,
+   "address":{
+      "city":"Bobruisk",
+      "zip":"215615",
+      "street":"Vancetti"
+   },
+   "righthended":true,
+   "honnies":"Sport",
+   "job":"Security"
+}
